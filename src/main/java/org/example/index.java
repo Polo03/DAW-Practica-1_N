@@ -11,6 +11,7 @@ public class index {
     public static void main(String[] args) throws SQLException {
         Scanner scanner = new Scanner(System.in);
         int indice;
+
         do {
             System.out.println("¿Que accion quiere realizar?");
             System.out.println("1. Crear empleado ");
